@@ -4,17 +4,22 @@ https://github.com/susiecastro/01-Python_Primeiros_Passos<Br>
 Função Print, Técnica de Slicing em string, Listas, Dicionários, Tuplas, Sets, Estrutura de repetição for, Estrutura de Repetição While, Estrutura Condicional If, Criando funções, A função Input, Instalando Pacotes, Exercícios de Fixação, Operadores aritméticos, Variáveis, Operadores relacionais e lógicos, Tipagem Dinamica, Stringas, Método do tipo String, F-strings
 </p>
 <br>
-<p><b>Código Organizado<b><br>
+<p><b>Código Organizado</b><br>
 https://github.com/susiecastro/02-Python_CodigoOrganizado<br>
 <i>Conteúdo:<br></i>
 Identação no Python, pep8, comentarios, dir_help, Zen do Python
 </p>
 <br>
-<p><b>Coleções<b><br>
-https://github.com/susiecastro/03-Python_Colecoes</p>
+<p><b>Coleções</b><br>
+https://github.com/susiecastro/03-Python_Colecoes
+<i>Conteúdo:<br></i>
+Listas, Tuplas, Dicionario, Collections
+</p>
 <br>
-<p><b>Controle<b><br>
+<p><b>Controle<b></b><br>
 https://github.com/susiecastro/04-Python_Controle
+<i>Conteúdo:<br></i>
+If - Else e Elif, while, For I, For II, Break continue
 </p>
 <br>
 <p><b>Funções<b><br>
