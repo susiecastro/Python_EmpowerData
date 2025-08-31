@@ -11,19 +11,21 @@ Identação no Python, pep8, comentarios, dir_help, Zen do Python
 </p>
 <br>
 <p><b>Coleções</b><br>
-https://github.com/susiecastro/03-Python_Colecoes
+https://github.com/susiecastro/03-Python_Colecoes<br>
 <i>Conteúdo:<br></i>
 Listas, Tuplas, Dicionario, Collections
 </p>
 <br>
-<p><b>Controle<b></b><br>
-https://github.com/susiecastro/04-Python_Controle
+<p><b>Controle</b><br>
+https://github.com/susiecastro/04-Python_Controle<br>
 <i>Conteúdo:<br></i>
 If - Else e Elif, while, For I, For II, Break continue
 </p>
 <br>
-<p><b>Funções<b><br>
-https://github.com/susiecastro/05-Python_Funcoes
+<p><b>Funções</b><br>
+https://github.com/susiecastro/05-Python_Funcoes<br>
+  <i>Conteúdo:<br></i>
+Funções
 </p>
 <br>
 <p><b>Comprehensions-Iterators-Generators<b><br>
