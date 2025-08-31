@@ -40,15 +40,12 @@ https://github.com/susiecastro/07-Python_Lambda<br>
 Lambdas, funcao map, funcao filter, funcao reduce, método sort
 </p>
 <br>
-<p><b>Tratando Erros<b><br>
-https://github.com/susiecastro/08-Python_TratandoErros
+<p><b>Tratando Erros</b><br>
+https://github.com/susiecastro/08-Python_TratandoErros<br>
+<i>Conteúdo:<br></i>
+Tipos erros, Try except, Excecoes personalizadas, While jogo
 </p>
 <br>
-<p><b>Tratando Erros<b><br>
-https://github.com/susiecastro/08-Python_TratandoErros
-</p>
-<br>
-<p><b>Data e Hora<b><br>
 https://github.com/susiecastro/09-Python_DataHora
 </p>
 <br>
