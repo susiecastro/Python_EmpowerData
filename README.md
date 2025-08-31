@@ -5,7 +5,10 @@ Função Print, Técnica de Slicing em string, Listas, Dicionários, Tuplas, Set
 </p>
 <br>
 <p><b>Código Organizado<b><br>
-https://github.com/susiecastro/02-Python_CodigoOrganizado</p>
+https://github.com/susiecastro/02-Python_CodigoOrganizado<br>
+<i>Conteúdo:<br></i>
+Identação no Python, pep8, comentarios, dir_help, Zen do Python
+</p>
 <br>
 <p><b>Coleções<b><br>
 https://github.com/susiecastro/03-Python_Colecoes</p>
