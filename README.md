@@ -10,3 +10,13 @@ https://github.com/susiecastro/03-Python_Colecoes</p>
 <p><b>Controle<b><br>
 https://github.com/susiecastro/04-Python_Controle
 </p>
+<br>
+<p><b>Funções<b><br>
+https://github.com/susiecastro/05-Python_Funcoes
+</p>
+<br>
+<p><b>Comprehensions-Iterators-Generators<b><br>
+https://github.com/susiecastro/06-Python_Comprehensions-Iterators-Generators
+</p>
+
+https://github.com/susiecastro/06-Python_Comprehensions-Iterators-Generators
