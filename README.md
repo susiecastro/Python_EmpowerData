@@ -46,10 +46,15 @@ https://github.com/susiecastro/08-Python_TratandoErros<br>
 Tipos erros, Try except, Excecoes personalizadas, While jogo
 </p>
 <br>
-https://github.com/susiecastro/09-Python_DataHora
+<p><b>Data e Hora</b><br>
+https://github.com/susiecastro/09-Python_DataHora<br>
+<i>Conteúdo:<br></i>
+DateTime
 </p>
 <br>
-<p><b>Manipulando Arquivos<b><br>
-https://github.com/susiecastro/10_Python_ManipulandoArquivos
+<p><b>Manipulando Arquivos</b><br>
+https://github.com/susiecastro/10_Python_ManipulandoArquivos<br>
+<i>Conteúdo:<br></i>
+Lendo Arquivos, Escrevendo Arquivos, Arquivos CSV e JSON, Introducao pandas
 </p>
 
