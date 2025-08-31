@@ -28,12 +28,16 @@ https://github.com/susiecastro/05-Python_Funcoes<br>
 Funções
 </p>
 <br>
-<p><b>Comprehensions-Iterators-Generators<b><br>
-https://github.com/susiecastro/06-Python_Comprehensions-Iterators-Generators
+<p><b>Comprehensions-Iterators-Generators</b><br>
+https://github.com/susiecastro/06-Python_Comprehensions-Iterators-Generators<br>
+<i>Conteúdo:<br></i>
+Comprehentions, generators, iterators
 </p>
 <br>
-<p><b>Lambda<b><br>
-https://github.com/susiecastro/07-Python_Lambda
+<p><b>Lambda</b><br>
+https://github.com/susiecastro/07-Python_Lambda<br>
+  <i>Conteúdo:<br></i>
+Lambdas, funcao map, funcao filter, funcao reduce, método sort
 </p>
 <br>
 <p><b>Tratando Erros<b><br>
