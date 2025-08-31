@@ -1,5 +1,8 @@
 <p><b>Python Primeiros Passos<b><br>
-https://github.com/susiecastro/01-Python_Primeiros_Passos</p>
+https://github.com/susiecastro/01-Python_Primeiros_Passos<Br>
+Conteúdo:<br>
+Função Print, Técnica de Slicing em string, Listas, Dicionários, Tuplas, Sets, Estrutura de repetição for, Estrutura de Repetição While, Estrutura Condicional If, Criando funções, A função Input, Instalando Pacotes, Exercícios de Fixação, Operadores aritméticos, Variáveis, Operadores relacionais e lógicos, Tipagem Dinamica, Stringas, Método do tipo String, F-strings
+</p>
 <br>
 <p><b>Código Organizado<b><br>
 https://github.com/susiecastro/02-Python_CodigoOrganizado</p>
